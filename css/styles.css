@@ -1,12 +1,12 @@
 /* /css/styles.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
+    background-color: #c5adad;
     color: #fff;
     padding: 10px 0;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #310202;
     text-decoration: none;
 }
 
@@ -34,8 +34,8 @@ nav ul li.active a {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #3f0303;
+    color: #eab4b4;
     text-align: center;
     padding: 10px 0;
     position: fixed;
